@@ -1,0 +1,1 @@
+To open original file (format f3d) of mixer box you will need meshes in "assitional meshes" folder
