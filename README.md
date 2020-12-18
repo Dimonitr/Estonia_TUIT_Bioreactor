@@ -6,15 +6,27 @@ SANYA fulfills all the yeast demands for the environment. It keeps under control
 All of that enables our yeast to feel comfortable and happy while working for the benefit of humanity!!!
 
 Components:
+
 •	Heater CV-H5
+
 •	Tumblers SMTS202-2A1
+
 •	Potentiometers R16148-1A-2-A1K and R16148-1A-2-B1K
+
 •	4 thermistors NTCC-22K 
+
 •	Arduino Uno Rev3
+
 •	Relay Omron G3MB-202p
+
 •	LED display W110-LED
+
 •	Motor GA12-N20/12V2000RPM
+
 •	Power supply PB009954
+
 •	LED lent Blue PA030668
+
 •	LED lent 70-982-PROL
+
 •	5mm thick plexiglass (sizes are on drawings)  
