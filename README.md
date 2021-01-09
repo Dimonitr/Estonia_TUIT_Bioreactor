@@ -27,6 +27,6 @@ Components:
 
 •	LED strip Blue PA030668
 
-•	LED strip 70-982-PROL
+•	LED strip Red 70-982-PROL
 
 •	5mm thick plexiglass (sizes are on drawings)  
