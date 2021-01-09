@@ -25,8 +25,8 @@ Components:
 
 •	Power supply PB009954
 
-•	LED lent Blue PA030668
+•	LED strip Blue PA030668
 
-•	LED lent 70-982-PROL
+•	LED strip 70-982-PROL
 
 •	5mm thick plexiglass (sizes are on drawings)  
